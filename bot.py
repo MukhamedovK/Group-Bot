@@ -8,7 +8,7 @@ from datetime import timedelta
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "6121037833:AAHnK1UrYBpiwBVWHNeKJKrwmkTm6LQ96vo"
+BOT_TOKEN = "6012331540:AAEF0G8In-SwLfNRrf8z9cHpx4BdXWm4TKE"
 
 bot = Bot(token=BOT_TOKEN, parse_mode='html')
 dp = Dispatcher(bot=bot)
